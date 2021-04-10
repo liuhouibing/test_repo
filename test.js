@@ -1,8 +1,1 @@
-var a = 1;
-
-function f(){
- function name(params) {
-     
- }
-
-}
+var b = 1;
